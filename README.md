@@ -38,14 +38,16 @@ Esta clase es un record que almacena los resultados de la conversión de moneda,
 También incluye los métodos mostrarResultado y almacenarResultado para imprimir los resultados y almacenarlos en una lista si es necesario.
 
 ## Capturas paso a paso
-Mensaje de bienvenida y pedido de una APIKey para funcionar
-![Vista previa del conversor](C:/Users/John Marlon/Desktop/java-conversor-monedas/image1.jpeg)
 
-Presentación del menú de opciones
+Adjuntas en el repositorio de Github
 
-Selección de la opción 1 y el monto a convertir
+1) Mensaje de bienvenida y pedido de una APIKey para funcionar
 
-Devuelve la información de la conversión y ofrece nuevamente el menú de opciones
+2) Presentación del menú de opciones
+
+3) Selección de la opción 1 y el monto a convertir
+
+4) Devuelve la información de la conversión y ofrece nuevamente el menú de opciones
 
 Este `README.md` cubre la funcionalidad básica del proyecto. Si hay algún aspecto que te gustaría ampliar o modificar, no dudes en decírmelo.
 
